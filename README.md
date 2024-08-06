@@ -1,4 +1,4 @@
-# DSAN-5300-Group-22-Final-Project
+# DSAN-Xue-Qin-Final-Project
 This is the Data Science and Analytics 5300 Statistical Learning Final Project
 
 ## Introduction 
